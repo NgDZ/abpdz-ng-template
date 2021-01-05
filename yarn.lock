@@ -2,52 +2,59 @@
 # yarn lockfile v1
 
 
-"@abpdz/ng.account@0.0.1":
-  version "0.0.1"
-  resolved "http://127.0.0.1:4444/@abpdz%2fng.account/-/ng.account-0.0.1.tgz#dbb09c18e4af420b5689eaf0b84718e3dfd5a751"
-  integrity sha512-+2mCnEdPbnCFbxT40/0PQDSH5LLnWDAlkV9b7Kg2bRgSSGAGH9f4Fn+sE5GwSNr54WWwSoYygPHJbiQ9Gm36hQ==
+"@abpdz/ng.account@0.0.2":
+  version "0.0.2"
+  resolved "http://localhost:4444/@abpdz%2fng.account/-/ng.account-0.0.2.tgz#18aef5bbad6b287585766c94ce792f1ff7455fee"
+  integrity sha512-SsneEFfFDQS/vx8kmfRJ/D1Pnw8W2mtYA8CMRBiLfYKanMdRujDx2MrQpL3Ey0rSd2aOCjH8Yg27G5QhRTd5DQ==
   dependencies:
     tslib "^2.0.0"
 
-"@abpdz/ng.core@0.0.1":
-  version "0.0.1"
-  resolved "http://127.0.0.1:4444/@abpdz%2fng.core/-/ng.core-0.0.1.tgz#3a2665c19a54d72e7dd8fa30cc8f0954a4a40e26"
-  integrity sha512-nLgnHOG4uQwE0KJga+oiMpqe7m4bZaBijLzBwNflZfV2VrmngKBtFVM8O1VhTYqT0J/l49VH4gFZGgLHPg+Ilw==
+"@abpdz/ng.breeze@0.0.2":
+  version "0.0.2"
+  resolved "http://localhost:4444/@abpdz%2fng.breeze/-/ng.breeze-0.0.2.tgz#fc515730924974f2668756190249f69e2896ffe9"
+  integrity sha512-22MLVX5xDtK6gwV+LwnGw0eUG67Ej3aiLYBbrSrV6PhKEhM3qcu4+3CBSdhOe+yITMtxHJzyKTLbezEwOukCZw==
   dependencies:
     tslib "^2.0.0"
 
-"@abpdz/ng.identity@0.0.1":
-  version "0.0.1"
-  resolved "http://127.0.0.1:4444/@abpdz%2fng.identity/-/ng.identity-0.0.1.tgz#31e49345ee6157a6071928ef58d62733c5ad84e0"
-  integrity sha512-QYO5mtrFPU11b8ieVT3ERftdoexdqcl2X5CKJRYRAJlrJXO76yDy3E+Tvu99yO6dMfweoFf7uCvBt7igHvsXgw==
+"@abpdz/ng.core@0.0.2":
+  version "0.0.2"
+  resolved "http://localhost:4444/@abpdz%2fng.core/-/ng.core-0.0.2.tgz#8ee9909285d675fad4a63fe4512fdc6bcd0e92b9"
+  integrity sha512-VDL7qh1uk+9YQH3Z1864iXnuwp46VMdZW4R3a69va6NvJvLB4iD9WPlGPfqJz/A7jRutRPppiBgjzXPHUa410w==
   dependencies:
     tslib "^2.0.0"
 
-"@abpdz/ng.permission-management@0.0.1":
-  version "0.0.1"
-  resolved "http://127.0.0.1:4444/@abpdz%2fng.permission-management/-/ng.permission-management-0.0.1.tgz#a361c87a9e609f7defe67a93d5f46bfe6faa413c"
-  integrity sha512-wftLTgNtQUoqIDVDoyP73hAE+OuMWq5/kDkxmdgxZWCMjTVnoN0KJxFi80vHg9rDGY2p9SQjnfx/cW18yC+61Q==
+"@abpdz/ng.identity@0.0.2":
+  version "0.0.2"
+  resolved "http://localhost:4444/@abpdz%2fng.identity/-/ng.identity-0.0.2.tgz#c26a47c04644f3713d013e602eacf7c9fa2ef2bb"
+  integrity sha512-9ThY6PiDaMg8rjhbYOmABhDHoMzhRMhGvntZPbS3ZHUtlN5Ae1UqSwis6SeBZjbmri5Gtir4Gt7v/S9/eubULg==
   dependencies:
     tslib "^2.0.0"
 
-"@abpdz/ng.theme.basic@0.0.1":
-  version "0.0.1"
-  resolved "http://127.0.0.1:4444/@abpdz%2fng.theme.basic/-/ng.theme.basic-0.0.1.tgz#3f0b8b171626a124a1fc653fa83835f420f2ac3a"
-  integrity sha512-c2e1gjyKeNHBVOuh9bEktENWkMZJxQ9M7eMFUbJwR/hc5ByfDpDHf5euM3fimMlrl7yKU13CPdVazwlb6iCzaw==
+"@abpdz/ng.permission-management@0.0.2":
+  version "0.0.2"
+  resolved "http://localhost:4444/@abpdz%2fng.permission-management/-/ng.permission-management-0.0.2.tgz#07d4f79575bedadb6084fc7e8954c98a4c1a8f71"
+  integrity sha512-PMUOHHmMkFLjIbST04hsxgOm+zmUIa6jWTDvgHivrcRnbEvVjdBQcQbB/I9Kp6zzBgN9qXsp8kdlgFMXf4sZsg==
   dependencies:
     tslib "^2.0.0"
 
-"@abpdz/ng.theme.material@0.0.1":
-  version "0.0.1"
-  resolved "http://127.0.0.1:4444/@abpdz%2fng.theme.material/-/ng.theme.material-0.0.1.tgz#d27bdb3cca40abaa33d406e7f7b8b752408e4c39"
-  integrity sha512-rXGVtgeTEIiZcrLK9BvMCTjsvzw8CAUkmmq5cuAjwKLOWMo1KtVEQxF9iaL+4g/UMilzHDSbQTHq6XlX8pbnPA==
+"@abpdz/ng.theme.basic@0.0.2":
+  version "0.0.2"
+  resolved "http://localhost:4444/@abpdz%2fng.theme.basic/-/ng.theme.basic-0.0.2.tgz#3f49dda1beb6fc5ef9ce2e28b0b86fa90506573c"
+  integrity sha512-ih5fUmoSeOuYlcWjArLC9aEKjM7NwA4gSgbhYLSSIw65OIFxUdv83gUEiyn4fMcO/FytY2tOFqZVnN3oyBCY5A==
   dependencies:
     tslib "^2.0.0"
 
-"@abpdz/ng.theme.shared@0.0.1":
-  version "0.0.1"
-  resolved "http://127.0.0.1:4444/@abpdz%2fng.theme.shared/-/ng.theme.shared-0.0.1.tgz#68098452e9f2d79e592102aca8bf85611d9c7f3f"
-  integrity sha512-k0P591r236CHJZ6MwHTe2eElIc8pqKLiAaqMzt4nrUr/5IG8y+rT9PDn3crj/70lCfVsDkrNLLpv0+NXqf0zfg==
+"@abpdz/ng.theme.material@0.0.2":
+  version "0.0.2"
+  resolved "http://localhost:4444/@abpdz%2fng.theme.material/-/ng.theme.material-0.0.2.tgz#f43ddce3cae49c8891be07eb7a3b3bed68ed0f94"
+  integrity sha512-4pQZYq5YW1Ade5I3S/7KIXfFmgbJTR/UciWXIMmXI0MVx1yXMY+mQSb3Fq5NEhfKGQY/mhkf8OER7dxp5RdaQQ==
+  dependencies:
+    tslib "^2.0.0"
+
+"@abpdz/ng.theme.shared@0.0.2":
+  version "0.0.2"
+  resolved "http://localhost:4444/@abpdz%2fng.theme.shared/-/ng.theme.shared-0.0.2.tgz#2f879689bf074b7baad2362ec95f803c280387c6"
+  integrity sha512-ul4afDpuFwDDXzz6fT9E5cAPnSkqdlI0hJYyOO5MKs1Y+SfedrcJlP02Je/anTdwZ6c5tH+9nU1J5Ba3tPMgAg==
   dependencies:
     tslib "^2.0.0"
 
